@@ -1,5 +1,7 @@
 # nota-ai
 
+
+
 Nota Süni intelekt Proyekti Sabahın alimləri üçün hazırlanmışdır.
 Açıq qaynaq kodunun linki:www.hudulov.cf/blog/index.html   Ən yuxarıda durur.
 
